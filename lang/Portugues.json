@@ -1,0 +1,54 @@
+{
+	"main_menu" : {
+		"lab_start" : "Iniciar", 
+		"desc_start" : "Comecar o jogo ou continuar de um salvo.", 
+		"lab_options" : "Opcoes", 
+		"desc_options" : "Mudar opcoes de video, som, controles, etc.", 
+		"lab_credits" : "Creditos", 
+		"desc_credits" : "Conheca os criadores do jogo.", 
+		"lab_quit" : "Sair", 
+		"desc_quit" : "Sair do jogo.", 
+		"desc_back_main" : "Voltar ao menu principal.", 
+
+		"lab_load" : "Carregar", 
+		"desc_load" : "Carregar um jogo para se continuar.", 
+		"lab_new_game" : "Novo jogo", 
+		"desc_new_game" : "Criar um novo personagem e comecar.", 
+		"desc_play" : "Continuar o jogo selecionado.", 
+		"lab_no_saved" : "Nenhum jogo salvo", 
+
+		"lab_quit_yes" : "Sim", 
+		"lab_quit_no" : "Nao", 
+		"desc_quit_yes" : "Tem certeza que quer sair? Sair agora.", 
+		"desc_quit_no" : "Tem certeza que quer sair? Voltar ao menu principal.", 
+
+		"lab_yes" : "Sim", 
+		"lab_no" : "Nao", 
+
+		"lab_video" : "Video", 
+		"desc_video" : "Mudar opcoes graficas.", 
+		"lab_sound" : "Som", 
+		"desc_sound" : "Mudar volumes de efeitos e musica.", 
+		"lab_controls" : "Controles", 
+		"desc_controls" : "Mudar teclas e opcoes de mouse.", 
+		"lab_general" : "Geral", 
+		"desc_general" : "Mudar outras opcoes, como linguagem.", 
+		"desc_back_options" : "Voltar ao menu de opcoes.", 
+		"lab_apply" : "Aplicar", 
+		"desc_apply" : "Salvar e aplicar todas as mudancas.", 
+
+		"desc_resolution" : "Muda a resolucao atual.", 
+		"lab_fullscreen" : "Tela cheia", 
+		"desc_fullscreen" : "Jogar em tela cheia.", 
+		"lab_vsync" : "Vsync", 
+		"desc_vsync" : "Jogar com sincronizacao vertical.", 
+
+		"lab_vol_sfx" : "Efeitos", 
+		"desc_vol_sfx" : "Volume dos efeitos sonoros.", 
+		"lab_vol_music" : "Musica", 
+		"desc_vol_music" : "Volume da musica do jogo.", 
+
+		"lab_language" : "Linguagem", 
+		"desc_language" : "Muda a linguagem atual."
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"main_menu" : {
+		"lab_start" : "Start", 
+		"desc_start" : "Begin game or continue from a saved one.", 
+		"lab_options" : "Options", 
+		"desc_options" : "Change options of video, sound, controls, etc.", 
+		"lab_credits" : "Credits", 
+		"desc_credits" : "Meet the game creators.", 
+		"lab_quit" : "Quit", 
+		"desc_quit" : "Quit the game.", 
+		"desc_back_main" : "Back to main menu.", 
+
+		"lab_load" : "Load", 
+		"desc_load" : "Load a saved game to continue from.", 
+		"lab_new_game" : "New Game", 
+		"desc_new_game" : "Create a new character and begin.", 
+		"desc_play" : "Continue from the selected saved game.", 
+		"lab_no_saved" : "No saved games", 
+
+		"lab_quit_yes" : "Yes", 
+		"lab_quit_no" : "No", 
+		"desc_quit_yes" : "Are you sure you want to quit? Exit now.", 
+		"desc_quit_no" : "Are you sure you want to quit? Back to main menu.", 
+
+		"lab_yes" : "Yes", 
+		"lab_no" : "No", 
+
+		"lab_video" : "Video", 
+		"desc_video" : "Change graphics options.", 
+		"lab_sound" : "Sound", 
+		"desc_sound" : "Change sound and music volumes.", 
+		"lab_controls" : "Controls", 
+		"desc_controls" : "Change keys and mouse options.", 
+		"lab_general" : "General", 
+		"desc_general" : "Change other options, like language.", 
+		"desc_back_options" : "Back to options menu.", 
+		"lab_apply" : "Apply", 
+		"desc_apply" : "Save and apply all the settings.", 
+
+		"desc_resolution" : "Changes the current resolution.", 
+		"lab_fullscreen" : "Fullscreen", 
+		"desc_fullscreen" : "If play in fullscreen mode.", 
+		"lab_vsync" : "Vsync", 
+		"desc_vsync" : "If play with vertical synchronization.", 
+
+		"lab_vol_sfx" : "Effects", 
+		"desc_vol_sfx" : "Volume of sound effects.", 
+		"lab_vol_music" : "Music", 
+		"desc_vol_music" : "Volume of game music.", 
+
+		"lab_language" : "Language", 
+		"desc_language" : "Changes the current language."
+	}
+}

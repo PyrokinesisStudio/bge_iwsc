@@ -1,0 +1,5 @@
+{"player" : {"id" : "y4s3d4g8m1", "name" : "Matheus Basco"},
+
+"actors" : {"y4s3d4g8m1" : {"chr_name": "Matheus Basco", "chr_life": 100, "chr_type": 0, "chr_inv": [], "chr_eqp": [], "inp_ver" : 0, "inp_hor" : 0, "inp_mov_mod" : 0, "inp_atk" : 0, "inp_look_hor" : 0.0, "inp_look_ver" : 0.0, "cur_action" : "idle", "cur_pos" : [0.0, 0.0, 0.0]}},
+
+"world" : {"house.001" : {}}}

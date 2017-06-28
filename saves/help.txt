@@ -1,0 +1,24 @@
+[player]
+id = y4s3d4g8m1
+name = Matheus Basco
+
+[actors]
+y4s3d4g8m1 = {'chr_name': 'Matheus Basco', 'chr_life': 100, 'chr_type': 0, 'chr_inv': [], 'chr_eqp': [], 'inp_ver' : 0, 'inp_hor' : 0, 'inp_mov_mod' : 0, 'inp_atk' : 0, 'inp_look_hor' : 0.0, 'inp_look_ver' : 0.0, 'cur_action' : 'idle', 'cur_pos' : [0.0, 0.0, 0.0]}
+
+[world]
+house.001 = {}
+
+Help
+Actors
+
+chr_name = Character name
+chr_life = Character life (0 to 100)
+chr_type = Character alignment / type (survivor, infected, npc)
+chr_inv = Character possessions (list of items)
+chr_eqp = Character currently equiped items (list of items)
+inp_ver, inp_hor = Directional keys (center=0, up/right=1, down/left=-1)
+inp_mov_mod = Movement modifier (normal=0, run=1, crouch=-1)
+inp_attack = Attack (off=0, on=1)
+inp_look_ver, inp_look_hor = Rotation values of mouse look
+cur_action = Current action which the character is busy on
+cur_pos = Current position of the character, in world coordinates
