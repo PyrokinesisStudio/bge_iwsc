@@ -1,0 +1,38 @@
+{
+	"configuration" : {
+		"resolutions" : [[640, 480], [800, 600], [1024, 768], [1280, 720], [1366, 768], [1440, 900], [1920, 1080]]
+	}, 
+
+	"characters" : {
+		"names_male" : ["Antonio", "Alberto", "Anderson", "Benedito", "Bruno", "Bóris", "Carlos", "Clovis", "Danilo", "Daniel", "Denis", "Eduardo", "Edvaldo", "Evaristo", "Fernando", "Francisco", "Flavio", "Geraldo", "Gustavo", "Godofredo", "Helio", "Ivan", "Isaias", "Isaque", "Joel", "Jose", "Julio", "Kevin", "Leandro", "Lucas", "Luciano", "Marcos", "Marcelo", "Mariano", "Nicolas", "Natan", "Nelson", "Otávio", "Oscar", "Osvaldo", "Pedro", "Paulo", "Pablo", "Rafael", "Rodrigo", "Ricardo", "Sergio", "Samuel", "Sandro", "Tiago", "Tomas", "Tulio", "Ulisses", "Uziel", "Ubiratan", "Vinicius", "Victor", "Vicente", "William", "Wesley", "Wellington", "Xerxes", "Yuri", "Ygor", "Yago", "Zacarias", "Zaqueu"], 
+
+		"names_female" : ["Ana", "Alice", "Amanda", "Beatriz", "Bianca", "Bruna", "Camila", "Carolina", "Claudia", "Daniela", "Denise", "Daiane", "Eduarda", "Eliane", "Erica", "Fernanda", "Fabiana", "Francisca", "Gabriela", "Gisele", "Giovana", "Helena", "Helen", "Heloisa", "Isabel", "Ingrid", "Iara", "Julia", "Jessica", "Janaina", "Karina", "Katia", "Keila", "Larissa", "Luiza", "Laura", "Maria", "Melissa", "Milena", "Nicole", "Natalia", "Nayara", "Olivia", "Olga", "Ofelia", "Patricia", "Priscila", "Paula", "Quesia", "Quiteria", "Raissa", "Rafaela", "Raquel", "Sandra", "Simone", "Sabrina", "Thais", "Taina", "Tatiana", "Ursula", "Uyara", "Uana", "Vanessa", "Vitoria", "Viviane", "Wanda", "Wilma", "Xayane", "Yasmin", "Yonara", "Zelia", "Zulmira", "Zuleide"], 
+		
+		"surnames" : ["Abreu", "Almeida", "Alves", "Bezerra", "Bernardo", "Barbosa", "Carvalho", "Cabral", "Campos", "Duarte", "Dutra", "Domingues", "Esteves", "Espinosa", "Eller", "Ferreira", "Fernandes", "Faria", "Gomes", "Goncalves", "Guimaraes", "Hipolito", "Jesus", "Jordao", "Leite", "Loureiro", "Lemos", "Machado", "Macedo", "Magalhaes", "Nascimento", "Nogueira", "Nunes", "Oliveira", "Orsato", "Pereira", "Pitanga", "Pacheco", "Quaresma", "Queiroz", "Quirino", "Ribeiro", "Rodrigues", "Rezende", "Silva", "Santos", "Souza", "Toledo", "Tavares", "Teixeira", "Urbino", "Vargas", "Vieira", "Veloso", "Xavier", "Zanetti"], 
+
+		"skins" : ["pale", "light", "tan", "dark"], 
+
+		"genres" : ["male", "female"], 
+
+		"faces" : ["ugly", "normal", "beautiful"], 
+
+		"hair_male" : ["short", "bald", "messy", "ponytail", "long"], 
+		"hair_female" : ["medium", "pigtails", "messy", "ponytail", "long"], 
+		"hair_colors" : ["black", "brown_dark", "brown", "red", "blonde"], 
+
+		"chr_type" : ["survivor", "infected", "npc"]
+	},
+	
+	"equipements" : {
+		"colors" : ["white", "black", "red", "blue", "green", "yellow", "purple", "grey"], 
+
+		"head" : ["cap", "beret", "bandana", "none"], 
+		"eyes" : ["glasses_sun", "glasses_round", "glasses_square", "none"], 
+		"face" : ["shade", "mask_cirurgical", "mask_industrial", "none"], 
+		"hands" : ["gloves_wool", "gloves_rubber", "none"], 
+		"torso" : ["shirt", "tshirt", "none"], 
+		"bag" : ["bp_school", "bag_camping", "bag_fitness", "none"], 
+		"legs" : ["jeans", "shorts", "pants_fitness", "none"], 
+		"foot" : ["sneakers", "shoes", "sandals", "none"]
+	}
+}
